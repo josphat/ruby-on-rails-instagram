@@ -10,6 +10,7 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
+ *= require 'masonry/transitions'
  *= require_tree .
  *= require_self
  */
@@ -50,6 +51,7 @@ h1, h2, h3, h4, h5, h6{
 		padding: 0px;
 	}
 	.pic_image{
+		padding: 0px;
 		img{
 			max-width: 100%;
 			width: 100%;

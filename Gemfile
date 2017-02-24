@@ -38,6 +38,7 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 # gem 'country_select', '~> 3.0'
 gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 5.1'
+gem 'masonry-rails', '~> 0.2.4'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
