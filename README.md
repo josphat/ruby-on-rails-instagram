@@ -1,5 +1,5 @@
 # README
-# ruby-on-rails-instagram
+# Ruby-on-Rails Instagram App
 Instagram app created using ruby on rails
 
 Requirements:
